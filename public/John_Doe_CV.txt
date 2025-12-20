@@ -1,0 +1,80 @@
+John Doe
+Frontend Developer
+
+📧 Email: john.doe@example.com
+📱 Phone: +1 (555) 123-4567
+📍 Location: San Francisco, CA
+
+🔗 LinkedIn: https://linkedin.com/in/username
+🔗 GitHub: https://github.com/username
+🔗 Portfolio: https://yourportfolio.com
+
+PROFESSIONAL SUMMARY
+Passionate frontend developer with expertise in React, JavaScript, and modern web technologies. 
+I love creating beautiful, responsive, and user-friendly applications that solve real-world problems.
+
+SKILLS
+Frontend: React, JavaScript, TypeScript, HTML/CSS, Tailwind CSS, Redux, Next.js
+Backend: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL
+Tools: Git, Webpack, Docker, AWS, Figma, Jest
+
+WORK EXPERIENCE
+
+Frontend Developer | Tech Solutions Inc. | San Francisco, CA | 2022 - Present
+• Developed and maintained responsive web applications using React and TypeScript
+• Collaborated with UX/UI designers to implement pixel-perfect designs
+• Optimized application performance resulting in 40% faster load times
+• Mentored junior developers and conducted code reviews
+
+Junior Web Developer | Digital Agency Co. | Oakland, CA | 2021 - 2022
+• Assisted in developing client websites using modern JavaScript frameworks
+• Participated in agile development processes and daily stand-ups
+• Implemented responsive designs and cross-browser compatibility
+• Contributed to code optimization and bug fixing
+
+EDUCATION
+
+Bachelor of Science in Computer Science | University of Technology | San Francisco, CA | 2018 - 2022
+• Dean's List for 6 consecutive semesters
+• President of Coding Club
+• Winner of Annual Hackathon 2021
+• GPA: 3.8/4.0
+
+Full Stack Web Development Bootcamp | Tech Academy | Online | 2022
+• Completed 500+ hours of intensive training
+• Built 5 full-stack projects
+• Top 5% of cohort
+
+PROJECTS
+
+E-Commerce Platform
+• Full-featured e-commerce platform with user authentication and payment integration
+• Technologies: React, Node.js, MongoDB, Stripe API, Tailwind CSS
+• Live: https://ecommerce-demo.vercel.app
+
+Task Management App
+• Collaborative task management application with real-time updates
+• Technologies: React, Firebase, Material-UI, React DnD, Redux
+• Live: https://task-manager-demo.vercel.app
+
+Weather Dashboard
+• Responsive weather dashboard with detailed forecasts and interactive maps
+• Technologies: React, Weather API, Chart.js, Geolocation API
+• Live: https://weather-dashboard-demo.vercel.app
+
+Social Media Analytics
+• Comprehensive analytics dashboard for social media management
+• Technologies: React, D3.js, Express.js, PostgreSQL, JWT Auth
+• Live: https://social-analytics-demo.vercel.app
+
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner
+• Google Mobile Web Specialist
+• Meta Frontend Developer Certificate
+
+LANGUAGES
+• English (Native)
+• Spanish (Basic)
+
+REFERENCES
+Available upon request
