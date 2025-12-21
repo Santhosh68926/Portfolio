@@ -1,29 +1,13 @@
-# Node modules
 node_modules
-
-# Build folder
 build
 .next
-
-# Git files
 .git
 .gitignore
-
-# Lock files
+*.log
+local-*
+Dockerfile
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
-
-# Logs
-*.log
-npm-debug.log
-
-# Local config files
-local-*
-
-# Dockerfile itself
-Dockerfile
-
-# Tests
 test
 README.md
