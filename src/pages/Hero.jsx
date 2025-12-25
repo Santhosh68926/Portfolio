@@ -3,7 +3,7 @@ import { personalInfo } from '../data/personalInfo';
 import { FaDownload, FaArrowRight } from 'react-icons/fa';
 import { downloadCV } from '../utils/downloadCV';
 import SmallThemeToggle from '../components/SmallThemeToggle';
-import img from '../assets/me.jpg';
+import Image from '../assets/me.jpg';
 
 const Hero = () => {
   return (
