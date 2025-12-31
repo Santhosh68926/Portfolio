@@ -5,7 +5,7 @@ export const education = [
     institution: "Trichy Engineering College",
     location: "Konalai, Trichy",
     period: "2021 - 2025",
-    gpa: "3.8/4.0",
+    gpa: "7.8/10",
     achievements: [
       "Strong academic foundation",
       "Hands-on project experience",
